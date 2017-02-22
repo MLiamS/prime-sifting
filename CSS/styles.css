@@ -1,0 +1,13 @@
+#notANum{
+  display: none;
+  color: red;
+}
+
+#primes{
+font-size: 30px;
+color: red;
+}
+
+.black{
+color: black;
+}
